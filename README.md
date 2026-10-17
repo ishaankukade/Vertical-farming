@@ -1,4 +1,4 @@
-# Smart Farm Controller (ESP32 + FreeRTOS)
+# Vertical Farming (ESP32 + FreeRTOS)
 
 
 
